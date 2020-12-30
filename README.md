@@ -18,6 +18,9 @@
 - [ ] Queues
   - [ ] Using Arrays
   - [ ] Using Linked Lists
+- [ ] Circular Queues
+  - [ ] Using Arrays
+  - [ ] Using Linked Lists
 - [ ] Binary Trees
 - [ ] and so on...
 
