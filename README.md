@@ -1,5 +1,5 @@
 # Exercises
-## Simple Exercises
+## Implementation Exercises
 - [x] DayType
 - [x] Equations of Line
 - [x] Tic Tac Toe
@@ -27,7 +27,7 @@
 - [ ] and so on...
 
 ## Additonal Algorithms
-- [ ] GFG Algorithms on Linked Lists
+- [ ] Algorithms on Linked Lists
 - [ ] Postfix/Prefix/Infix Converter and Expression Solver
 - [ ] Search Algorithms
 - [ ] Sort Algorithms
