@@ -2,8 +2,8 @@ class CPM
 {
 private:
 	vector<vector<pair<int, double>>> arr;
-	vector<int> Forward;
-	vector<int> Backward;
+	vector<double> Forward;
+	vector<double> Backward;
 	
 public:
 
