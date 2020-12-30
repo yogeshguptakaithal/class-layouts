@@ -12,7 +12,7 @@ public:
 		
 	}
 
-	void AddDirectedEdge(int source, int destination, int weight = 0)
+	void AddDirectedEdge(int source, int destination, double weight = 0)
 	{
 		
 	}
