@@ -3,6 +3,8 @@
 - [x] DayType
 - [x] Equations of Line
 - [x] Tic Tac Toe
+- [x] CPM
+- [ ] ModuloWrapper Class
 
 ## Data Structures
 - [x] Arrays-Based Lists
@@ -24,9 +26,7 @@
 - [ ] Binary Trees
 - [ ] and so on...
 
-## Additonal Algorithms/Classes
-- [x] CPM
-- [x] ModuloWrapper Class
+## Additonal Algorithms
 - [ ] GFG Algorithms on Linked Lists
 - [ ] Postfix/Prefix/Infix Converter and Expression Solver
 - [ ] Search Algorithms
