@@ -13,6 +13,7 @@ public:
 
 	}
 
+	// implicitly convert to long long int
 	inline operator long long int() const
 	{
 	
@@ -57,4 +58,12 @@ public:
 	{
 	
 	}
+	
+	// TODO: Add four more operator overloading methods to achieve the following: 
+	// 1.	long long + MW
+	// 2.	long long - MW
+	// 3.	long long * MW
+	// 4.	long long / MW
+	// where MW is short form for ModuloWrapper.
+	// Reference link: https://stackoverflow.com/questions/34292219/binary-operator-overloading-in-c-with-differing-data-types
 };
