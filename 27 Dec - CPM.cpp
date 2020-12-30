@@ -28,6 +28,29 @@ public:
 	}
 };
 
+int main() 
+{
+	int n, t;
+	cin >> n >> t;
+
+	CPM cpm = CPM(n);
+
+	cout << "N : " << n << endl << "T : " << t << endl;
+
+	while (t--)
+	{
+		int x, y;
+		double w;
+		cin >> x >> y >> w;
+		cout << "Edge added : " << x << " -> " << y << " with weight " << w << endl;
+		cpm.AddDirectedEdge(x, y, w);
+	}
+
+	cpm.Iterate();
+	cpm.Print();
+
+	return 0;
+}
 /*
 -----Constraints-----
 1 <= xi, yi <= n
@@ -52,7 +75,7 @@ xt yt wt
 6 7 6
 5 4 0
 
------Sample Output-----
+-----Sample Output of Print method of CPM class-----
 1 0 0
 2 3 3
 3 2 4
