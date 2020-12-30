@@ -28,19 +28,19 @@ public:
 	}
 };
 
-/* Input Format
+/*
+-----Constraints-----
+1 <= xi, yi <= n
+wi: weight in double
+1 <= i <= t
+
+-----Input Format-----
 n t
 x1 y1 w1
 ...
 xt yt wt
 
-1 <= xi, yi <= n
-wi: weight in double
-1 <= i <= t
-*/
-
-/* Sample Input
-Example:
+-----Sample Input-----
 7 9
 1 2 8
 1 3 2
@@ -51,9 +51,8 @@ Example:
 5 6 3
 6 7 6
 5 4 0
-*/
 
-/* Sample Output
+-----Sample Output-----
 1 0 0
 2 3 3
 3 2 4
