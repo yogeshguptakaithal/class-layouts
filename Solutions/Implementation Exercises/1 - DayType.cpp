@@ -8,12 +8,11 @@ enum class DaysOfWeek : short
 	Saturday,
 	Sunday
 };
-
 class Daytype 
 {
 private:
 	DaysOfWeek curr_day;
-	inline static const string Days[7] { "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday" };
+
 public:
 	Daytype(DaysOfWeek day = DaysOfWeek::Monday) : curr_day(day)
 	{
@@ -32,6 +31,7 @@ public:
 
 	string getString() const
 	{
+		string Days[7]{ "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday" };
 		return Days[(int)curr_day];
 	}
 

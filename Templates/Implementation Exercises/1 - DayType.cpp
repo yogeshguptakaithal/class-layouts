@@ -13,7 +13,7 @@ class Daytype
 {
 private:
 	DaysOfWeek curr_day;
-	inline static const string Days[7] { "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday" };
+	
 public:
 	Daytype(DaysOfWeek day = DaysOfWeek::Monday)
 	{

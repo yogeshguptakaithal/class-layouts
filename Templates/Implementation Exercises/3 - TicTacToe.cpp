@@ -47,4 +47,9 @@ public:
 	{
 		
 	}
+	
+	~TicTacToe()
+	{
+		
+	}
 };

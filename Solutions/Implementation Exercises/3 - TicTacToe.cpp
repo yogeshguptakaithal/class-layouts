@@ -125,5 +125,13 @@ public:
 			return board[0][DIMENSIONS - 1];
 
 		return 0;
+	}	
+	
+	~TicTacToe()
+	{
+		for (int i = 0; i < DIMENSIONS; ++i)
+			delete[] board[i];
+
+		delete[] board;
 	}
 };
