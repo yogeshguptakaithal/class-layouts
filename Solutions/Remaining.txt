@@ -1,2 +1,2 @@
-ModuloWrapper Class
 Singly Linked List
+Doubly Linked List
