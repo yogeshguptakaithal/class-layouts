@@ -4,7 +4,7 @@
 - [x] Equations of Line
 - [x] Tic Tac Toe
 - [x] CPM
-- [ ] ModuloWrapper Class
+- [x] ModuloWrapper Class
 
 ## Data Structures
 - [x] Arrays-Based Lists
@@ -12,8 +12,7 @@
   - [x] Dynamically Expanding Lists
 - [ ] Linked List
   - [x] Singly Linked List
-  - [ ] Doubly Linked List
-  - [ ] Linked List Iterators
+  - [x] Doubly Linked List
 - [ ] Stack
   - [ ] Using Arrays
   - [ ] Using Linked Lists
