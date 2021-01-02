@@ -10,7 +10,7 @@
 - [x] Arrays-Based Lists
   - [x] Fixed Lists
   - [x] Dynamically Expanding Lists
-- [ ] Linked List
+- [x] Linked List
   - [x] Singly Linked List
   - [x] Doubly Linked List
 - [ ] Stack
