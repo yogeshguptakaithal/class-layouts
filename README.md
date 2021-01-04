@@ -13,9 +13,9 @@
 - [x] Linked List
   - [x] Singly Linked List
   - [x] Doubly Linked List
-- [ ] Stack
+- [x] Stack
   - [ ] Using Arrays
-  - [ ] Using Linked Lists
+  - [x] Using Linked Lists
 - [ ] Queues
   - [ ] Using Arrays
   - [ ] Using Linked Lists
@@ -26,7 +26,7 @@
 - [ ] and so on...
 
 ## Additonal Algorithms
-- [ ] Algorithms on Linked Lists
+- [x] Algorithms on Linked Lists
 - [ ] Postfix/Prefix/Infix Converter and Expression Solver
 - [ ] Search Algorithms
 - [ ] Sort Algorithms
